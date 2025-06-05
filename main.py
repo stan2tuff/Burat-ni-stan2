@@ -1,3 +1,5 @@
+can you make the name NUVEM and I have a sample script here I want you to do this in my script 
+
 """
 
 - This script is educational and fully coded by M. logique aka @1ogi in discord
@@ -607,4 +609,4 @@ async def main(token: str, guild_id):
 
     elif choice == "15":
         Cursor.HideCursor()
-        path = Funcs.get_input("Drag and drop the new icon or enter its path(use 'd' for default icon in root fo
+        path = Funcs.get_input("Drag and drop t
